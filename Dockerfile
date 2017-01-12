@@ -2,6 +2,8 @@
 #
 # Dockerfile for MariaDB on Debian 9.0 (stretch)
 #
+# Copyright (c) 2017 Jari Jokinen. MIT License.
+#
 # USAGE:
 #
 #   docker build -t mysql .
